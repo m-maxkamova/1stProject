@@ -1,0 +1,3 @@
+/Users/m.maxkamova/CLionProjects/1stProject/cmake-build-debug/CMakeFiles/1stProject.dir
+/Users/m.maxkamova/CLionProjects/1stProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/m.maxkamova/CLionProjects/1stProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
